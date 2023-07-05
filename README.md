@@ -2,11 +2,14 @@
 
 <h1>🌊 Leandro Méndez 💻</h1>
 <p align="center" width="300">
-   <h3 align="center">I'm full-stack developer, I'm currently living in Argentina</h3>
+   <h2 align="center">I'm full-stack developer</h2> 
+   <h4>I'm currently living in Argentina</h4>
 </p>
 
 
-<p>Hey there! My name is Leandro and I am a developer with a couple of years of experience. I am a curious person and love to keep learning new things. Additionally, I enjoy helping and teaching others. I used to be a math teacher and also studied Civil Engineering for a couple of years. In my free time, I like to play volleyball, PC games, and board games. I also enjoy building side projects. Here you will find a few of them</p>
+<p>Hello there! I'm Leandro, a full-stack developer with a few years of experience. I have a strong passion for learning and constantly exploring new technologies. Currently, I'm focused on delving into cloud technologies.</p>
+<p>When I'm not coding, you'll likely find me enjoying board games with my girlfriend and friends or teaching physics and mathematics to teenagers.</p>
+<p>Feel free to reach out if you'd like to connect or discuss any opportunities!</p>
 <br>
 <br>
 <div>
@@ -17,17 +20,25 @@
    - <img height="1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> React 
    - NextJS
    - Typescript
-   - Sass
-   - Mantine-UI
+   - TailwindCSS
+   - Daisy-UI
    - Chakra-UI
 
   Backend:
 
-  - NodeJS with Express
+  - NodeJS with Express & NestJS
+  - JAVA with Spring Boot 
   - MongoDB
   - PostgreSQL
   - MySQL/MariaDB
   - NginX
+
+   Tools & infrastructure
+   
+   - Docker
+   - Docker-Compose
+   - Azure Container Instances
+   - Azure App Service
   </div>
   
 
@@ -35,9 +46,8 @@
 <div style="margin-left: 60px">
 <h3> ⚡  I'm learning:</h3>
 
-- Docker
-- JAVA with spring boot
-- AWS and Cloud services
+- AWS Cloud services
+- CI/CD with Github Actions
 </div>
 </div>
 <br>
