@@ -10,10 +10,11 @@
 <div>
 <div>
 <h3>🌀 I'm currently working with:</h3>
-   Frontend:   
-   - Angular
-   - Typescript
-   - TailwindCSS
+
+  Frontend:
+  - Angular
+  - Typescript
+  - TailwindCSS
 
   Backend:
   - NodeJS with Express
