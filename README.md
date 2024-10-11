@@ -7,47 +7,38 @@
 </p>
 
 
-<p>Hello there! I'm Leandro, a full-stack developer with a few years of experience. I have a strong passion for learning and constantly exploring new technologies. Currently, I'm focused on delving into cloud technologies.</p>
-<p>When I'm not coding, you'll likely find me enjoying board games with my girlfriend and friends or teaching physics and mathematics to teenagers.</p>
-<p>Feel free to reach out if you'd like to connect or discuss any opportunities!</p>
+<p>Hello there! I'm Leandro, a full-stack developer. I have a strong passion for learning and constantly exploring new technologies. Currently, I'm focused on learning Node and Golang.</p>
+<p>When I'm not coding, you'll likely find me enjoying board games with friends or teaching physics and math.</p>
+<p>Feel free to reach out if you'd like to connect!</p>
 <br>
 <br>
 <div>
 <div>
 <h3>🌀 I'm currently working with:</h3>
    Frontend: 
-   
-   - <img height="1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> React 
-   - NextJS
+   - Angular
    - Typescript
    - TailwindCSS
-   - Daisy-UI
-   - Chakra-UI
 
   Backend:
-
-  - NodeJS with Express & NestJS
-  - JAVA with Spring Boot 
-  - MongoDB
-  - PostgreSQL
-  - MySQL/MariaDB
-  - NginX
+  - NodeJS with Express
+  - Typescript
+  - MySQL
+  - TypeORM
 
    Tools & infrastructure
-   
    - Docker
    - Docker-Compose
-   - Azure Container Instances
-   - Azure App Service
+   - AWS
+   - Gitlab CI/CD
   </div>
   
 
 <br>
 <div style="margin-left: 60px">
 <h3> ⚡  I'm learning:</h3>
-
-- AWS Cloud services
-- CI/CD with Github Actions
+- Golang
+- AWS
 </div>
 </div>
 <br>
