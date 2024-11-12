@@ -14,7 +14,7 @@
   <p><a href="https://twitter.com/Mr_Leomendez" target="_blank"><img alt="Twitter / X" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> </p>
   <p><a href="https://www.linkedin.com/in/leandroamendez" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </span>
-<p>My DMs are always opened</p>
+<p>My DMs are always open.</p>
 
 
 
