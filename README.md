@@ -5,7 +5,7 @@
 
 <h5><img alt="saturn" src="https://i.gifer.com/WXfF.gif" height="25px" /> I occasionally write articles here <a href="https://leandez.netlify.app/" target="_blank" ><img alt="leandez-blog" src="https://img.shields.io/badge/LeanDez%20Blog-%23FFFFFF?style=flat-square" /></a></h5> 
 
-<h5><img alt="Go training" src="https://miro.medium.com/v2/resize:fit:500/0*wesTyStxrYGf6iK2.gif" height="45px"> I’m currently learning  <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> </h5> 
+<h5><img alt="Go training" src="https://miro.medium.com/v2/resize:fit:500/0*wesTyStxrYGf6iK2.gif" height="45px"> I’m currently learning  <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> and cool stuff about infrastructure and DevOps. </h5> 
 
 
 <h3>Where to find me</h3>
@@ -63,11 +63,14 @@
 </span>
 <h3 >Tools and Tech</h3>
 <span>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=FCA326">
-  <img alt="PNPM" src="https://img.shields.io/badge/pnpm-%23252525.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
-  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=FCA326" />
+  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0078D6?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-npm-white?style=for-the-badge&logo=npm&logoColor=DD0031" />
+  <img alt="PNPM" src="https://img.shields.io/badge/pnpm-%23252525.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" />
+  <img alt="yarn" src="https://img.shields.io/badge/yarn-white?style=for-the-badge&logo=yarn&logoColor=0078D6" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
 </span> 
 </div>
 
